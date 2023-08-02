@@ -16,8 +16,8 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    /* background-image: url(me/wallpaperflare.com_wallpaper.jpg); */
-    background-color: bisque;
+    background-image: url(me/54948.jpg);
+    /* background-color: bisque; */
     background-size: cover;
     background-position: center;
 }
@@ -128,7 +128,7 @@ ul li a:hover::after{
 .tab-contents.active-tab{
     display: block;
 }
-.portfolio{
+/* .portfolio{
     background:black ;
 }
 .portfolio h2 {
@@ -191,7 +191,7 @@ ul li a:hover::after{
     font-size: 2rem;
     color: var(--second-bg-colour);
 }
-
+ */
 
 
 
